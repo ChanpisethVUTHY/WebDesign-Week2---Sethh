@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About us - Chocolate </title>
+    <style> 
+        body {
+            font-family: Arial; 
+        }
+    </style>
+</head>
+<body>
+    <!--Menu-->
+    <nav>
+        <a href="home.html">HOME</a> |
+        <a href="aboutus.html">ABOUT US</a> |
+        <a href="ourproducts.html">OUR PRODUCTS</a> |
+        <a href="contact.html">CONTACT</a> 
+    </nav>
+    <h1>About Us</h1>
+    <p>Geology Club, Cambodia is a non-profit organization that gives opportunity to student all around cambodia for researching and examing with the Earth Science Competition.</p>
+    <h2>Why Created?</h2>
+    <ul>
+        <li>To create more opportunity for youth.</li>
+        <li>To do more research on site in Cambodia.</li>
+        <li>Prepare new discovery as documentary for next generation.</li>
+    </ul>
+</body>
+</html>
