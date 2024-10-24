@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction to HTML</title>
+</head>
+<body>
+    <h1>Introduction to HTML</h1>
+    <p>Welcome to the world of code ! <br>
+    Last yaer, millions of learners form our community started with HTML.</p>
+
+    <p>WHy? <br>
+    <strong>HTML os the sketelon of all web pages.</strong> It's often the first language learned by developers, marketers,and designers and is core to front-end development work.</p>
+    <p>HTML provides structure to the content appearing on a website, such as 
+        <a href="https://images.app.goo.gl/1Gw185q85JJHQdSbA" target="_blank">images</a>, 
+        <a href="Hello, My name is Vuthy Chanpiseth. And my student ID is IDTB100264" target="_blank">texts</a>, or 
+        <a href="https://youtu.be/XqZsoesa55w?si=7Puub34r_SIZcXvh" target="_blank">videos</a>.
+    </p>
+    <h2>Conclusion</h2>
+    <p>Still have questions? Please <a href="mailto:chanpiseth.vuthy@student.cadt.edu.kh">contact me</a> for any question !</p>
+</body>
+</html>
