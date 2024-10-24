@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Products - Chocolate</title>
+    <style> 
+        body {
+            font-family: Arial;
+        }
+    </style>
+</head>
+<body>
+    <!--Menu-->
+    <nav>
+        <a href="home.html">HOME</a> |
+        <a href="aboutus.html">ABOUT US</a> |
+        <a href="ourproducts.html">OUR PRODUCTS</a> |
+        <a href="contact.html">CONTACT</a> 
+    </nav>
+    <h1>Our Products</h1>
+    <h2>On site Field Research</h2>
+    <ul>
+        <li>Kirirum</li>
+        <li>Sihanuk Ville</li>
+        <li>Kampot</li>
+        <li>Takeo</li>
+        <li>more...</li>
+    </ul>
+    <h2>Earth Science Competition</h2>
+    <ul>
+        <li>Est 2021</li>
+        <li>Participation: 10000+ students</li>
+        <li>volunteers: 60+ volunteers</li>
+        <li>technical Support: 13</li>
+    </ul>
+</body>
+</html>
