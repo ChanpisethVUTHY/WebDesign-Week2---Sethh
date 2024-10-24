@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Chocolate</title>
+    <style> 
+        body {
+            font-family: Arial; 
+        }
+    </style>
+</head>
+<body>
+    <!--Menu-->
+    <nav>
+        <a href="home.html">HOME</a> |
+        <a href="aboutus.html">ABOUT US</a> |
+        <a href="ourproducts.html">OUR PRODUCTS</a> |
+        <a href="contact.html">CONTACT</a> 
+    </nav>
+    <!--Title-->
+    <h1> Welcome to Geology Club, Cambodia !</h1>
+    <p>Geology Club, Cambodia provides students all around Cambodia with a real life field research at the real time !</p>
+    <img src="research.jpg" alt="Research Field" style="width:500px;">
+    <h2>Some of our Research topics:</h2>
+    <ul>
+        <li>Soil Quality</li>
+        <li>Water Quality</li>
+        <li>Rock</li>
+    </ul>
+</body>
+</html>
